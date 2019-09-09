@@ -1,2 +1,5 @@
+[bastion]
+bastion.infra.rust-lang.org ansible_host=13.57.108.180
+
 [monitoring]
 monitoring.infra.rust-lang.org
